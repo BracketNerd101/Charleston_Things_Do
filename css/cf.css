@@ -1,3 +1,61 @@
+.place_spacing {
+  margin-bottom: 8rem; }
 
+.jumbotron {
+  background-color: none; }
+
+.background_img_1 {
+  background-size: cover;
+  background-image: url(../img/);
+  height: 35rem;
+  width: 100%; }
+
+.background_img_2 {
+  background-size: cover;
+  background-image: url(../img/);
+  height: 35rem;
+  width: 100%; }
+
+.background_img_3 {
+  background-size: cover;
+  background-image: url(../img/);
+  height: 35rem;
+  width: 100%; }
+
+.background_img_4 {
+  background-size: cover;
+  background-image: url(../img/);
+  height: 35rem;
+  width: 100%; }
+
+.background_img_5 {
+  background-size: cover;
+  background-image: url(../img/);
+  height: 35rem;
+  width: 100%; }
+
+.background_img_6 {
+  background-size: cover;
+  background-image: url(../img/);
+  height: 35rem;
+  width: 100%; }
+
+.background_img_7 {
+  background-size: cover;
+  background-image: url(../img/);
+  height: 35rem;
+  width: 100%; }
+
+.background_img_8 {
+  background-size: cover;
+  background-image: url(../img/);
+  height: 35rem;
+  width: 100%; }
+
+.background_img_9 {
+  background-size: cover;
+  background-image: url(../img/);
+  height: 35rem;
+  width: 100%; }
 
 /*# sourceMappingURL=cf.css.map */
