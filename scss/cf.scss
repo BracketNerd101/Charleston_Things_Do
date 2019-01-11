@@ -1,12 +1,25 @@
 body {
 
-
+scroll-behavior: smooth;
 }
 
 
 .place_spacing {
 
   margin-bottom: 8rem;
+}
+
+.mini_space {
+
+// margin-bottom: 5rem;
+margin-top: 4rem;
+
+}
+
+.hero_banner {
+
+  height: 30rem;
+
 }
 
 .jumbotron {
@@ -18,7 +31,7 @@ body {
 .background_img_1 {
 
   background-size: cover;
-  background-image: url(../img/);
+  background-image: url(../img/middleton.jpg);
   height: 35rem;
   width: 100%;
 
