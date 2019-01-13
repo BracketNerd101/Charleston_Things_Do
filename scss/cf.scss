@@ -1,11 +1,21 @@
 body {
-
+position: relative;
 scroll-behavior: smooth;
+overflow-y: scroll;
 }
 
 // font-family: 'Montserrat', sans-serif;
 // font-family: 'Source Sans Pro', sans-serif;
 // font-family: 'Playfair Display', serif;
+
+a {
+    transition: all 4.3s ease-out;
+    transition-property: all;
+    transition-duration: 6.8s;
+    transition-timing-function: ease-out;
+    transition-delay: initial;
+
+  }
 
 
 .place_spacing {
