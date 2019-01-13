@@ -5,10 +5,12 @@ body {
   margin-bottom: 8rem; }
 
 .mini_space {
-  margin-top: 4rem; }
+  margin-top: 7rem; }
 
 .hero_banner {
   height: 30rem; }
+  .hero_banner .hero_title {
+    font-family: 'Playfair Display', serif; }
 
 .jumbotron {
   background-color: none; }
@@ -21,13 +23,13 @@ body {
 
 .background_img_2 {
   background-size: cover;
-  background-image: url(../img/);
+  background-image: url(../img/rainbow_road.jpg);
   height: 35rem;
   width: 100%; }
 
 .background_img_3 {
   background-size: cover;
-  background-image: url(../img/);
+  background-image: url(../img/Nat_Russel.jpg);
   height: 35rem;
   width: 100%; }
 

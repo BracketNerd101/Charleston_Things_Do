@@ -3,6 +3,10 @@ body {
 scroll-behavior: smooth;
 }
 
+// font-family: 'Montserrat', sans-serif;
+// font-family: 'Source Sans Pro', sans-serif;
+// font-family: 'Playfair Display', serif;
+
 
 .place_spacing {
 
@@ -12,13 +16,20 @@ scroll-behavior: smooth;
 .mini_space {
 
 // margin-bottom: 5rem;
-margin-top: 4rem;
+margin-top: 7rem;
 
 }
 
 .hero_banner {
 
   height: 30rem;
+
+  .hero_title {
+
+    font-family: 'Playfair Display', serif;
+
+     }
+
 
 }
 
@@ -40,7 +51,7 @@ margin-top: 4rem;
 .background_img_2 {
 
   background-size: cover;
-  background-image: url(../img/);
+  background-image: url(../img/rainbow_road.jpg);
   height: 35rem;
   width: 100%;
 
@@ -49,7 +60,7 @@ margin-top: 4rem;
 .background_img_3 {
 
   background-size: cover;
-  background-image: url(../img/);
+  background-image: url(../img/Nat_Russel.jpg);
   height: 35rem;
   width: 100%;
 
