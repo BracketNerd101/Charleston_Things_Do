@@ -12,11 +12,20 @@ body {
   .hero_banner .hero_title {
     font-family: 'Playfair Display', serif; }
 
+.footer_space {
+  margin-bottom: 5rem;
+  margin-top: 7rem;
+  font-family: 'Playfair Display', serif; }
+
 .jumbotron {
   background-color: none; }
 
 .site_nav_title {
-  font-family: 'Playfair Display', serif; }
+  font-family: 'Playfair Display', serif;
+  padding-left: 2rem;
+  padding-right: 2rem;
+  padding-bottom: 2rem;
+  padding-top: 2rem; }
 
 .background_img_1 {
   background-size: cover;
