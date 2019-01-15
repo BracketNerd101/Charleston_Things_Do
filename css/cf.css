@@ -1,17 +1,40 @@
 body {
-  scroll-behavior: smooth; }
+  position: relative;
+  scroll-behavior: smooth;
+  overflow-y: scroll; }
+
+a {
+  transition: all 4.3s ease-out;
+  transition-property: all;
+  transition-duration: 6.8s;
+  transition-timing-function: ease-out;
+  transition-delay: initial; }
 
 .place_spacing {
   margin-bottom: 8rem; }
 
 .mini_space {
-  margin-top: 4rem; }
+  margin-top: 7rem; }
 
 .hero_banner {
   height: 30rem; }
+  .hero_banner .hero_title {
+    font-family: 'Playfair Display', serif; }
+
+.footer_space {
+  margin-bottom: 5rem;
+  margin-top: 7rem;
+  font-family: 'Playfair Display', serif; }
 
 .jumbotron {
   background-color: none; }
+
+.site_nav_title {
+  font-family: 'Playfair Display', serif;
+  padding-left: 2rem;
+  padding-right: 2rem;
+  padding-bottom: 2rem;
+  padding-top: 2rem; }
 
 .background_img_1 {
   background-size: cover;
@@ -21,19 +44,19 @@ body {
 
 .background_img_2 {
   background-size: cover;
-  background-image: url(../img/);
+  background-image: url(../img/rainbow_road.jpg);
   height: 35rem;
   width: 100%; }
 
 .background_img_3 {
   background-size: cover;
-  background-image: url(../img/);
+  background-image: url(../img/Nat_Russel.jpg);
   height: 35rem;
   width: 100%; }
 
 .background_img_4 {
   background-size: cover;
-  background-image: url(../img/);
+  background-image: url(../img/aquarium_hero.jpg);
   height: 35rem;
   width: 100%; }
 
