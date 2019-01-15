@@ -22,6 +22,12 @@ a {
 // font-family: 'Montserrat Subrayada', sans-serif;
 // font-family: 'Charm', cursive;
 
+.sub_header_style {
+
+ font-family: 'Playfair Display', serif;
+
+}
+
 .place_spacing {
 
   margin-bottom: 8rem;
@@ -37,6 +43,7 @@ margin-top: 7rem;
 .hero_banner {
 
   height: 30rem;
+  background-image: url(../img/leaves.png);
 
   .hero_title {
 

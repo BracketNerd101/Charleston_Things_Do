@@ -10,6 +10,9 @@ a {
   transition-timing-function: ease-out;
   transition-delay: initial; }
 
+.sub_header_style {
+  font-family: 'Playfair Display', serif; }
+
 .place_spacing {
   margin-bottom: 8rem; }
 
@@ -17,7 +20,8 @@ a {
   margin-top: 7rem; }
 
 .hero_banner {
-  height: 30rem; }
+  height: 30rem;
+  background-image: url(../img/leaves.png); }
   .hero_banner .hero_title {
     font-family: 'Playfair Display', serif; }
 
